@@ -1,4 +1,4 @@
 "# Jeopardy" 
 
 Work with Jeopardy base of question.
-Creating program for play Jeopardy
+Creating program to play Jeopardy
